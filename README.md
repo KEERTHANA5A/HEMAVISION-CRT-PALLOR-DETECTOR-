@@ -1,7 +1,6 @@
 
 # HemaVision — CRT & Pallor Vision Prototype (OpenCV)
 OpenCV-based system that analyzes fingertip redness and return thresholds to measure CRT and detect pallor, designed for future integration with embedded hardware (Raspberry Pi).
-Real-time fingertip analysis to estimate **capillary refill time (CRT)** and **pallor** using ROI-based redness tracking and smoothing.  
 > Research prototype for educational use only — **not a medical device**.
 
 ## Features
