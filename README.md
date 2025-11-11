@@ -14,3 +14,6 @@ OpenCV-based system that analyzes fingertip redness and return thresholds to mea
 python -m venv venv
 # Windows: venv\Scripts\activate   |   macOS/Linux: source venv/bin/activate
 pip install -r requirements.txt
+## Run
+python hemavision_crt.py
+**Keys:** `p` = press (lock baseline) • `r` = release (start CRT) • `q`/`Esc` = quit
